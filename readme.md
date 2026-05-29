@@ -1,1 +1,1 @@
-
+A simple Homework AI Agent developed using Python. It provides basic guidance for Math, English, and Science homework using rule-based logic and conditional statements. Created as a beginner project to learn AI agent fundamentals.
